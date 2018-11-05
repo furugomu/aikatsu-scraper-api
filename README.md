@@ -14,7 +14,7 @@ type Query {
 
 `/card?url=URL`
 
-```json
+```js
 {
   "id": "F3-128",
   "name": "スノープリンセストップス",
